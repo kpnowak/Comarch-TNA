@@ -1,5 +1,18 @@
 # Projekt Raport Obecności
 
+## Gotowe pliki EXE
+
+W folderze `dist` znajdują się gotowe pliki wykonywalne `.exe`, które możesz uruchomić bez konieczności instalowania Pythona:
+
+- `to_txt_all.exe` – odpowiednik skryptu `to_txt_all.py`, pobiera dane obecności dla **wszystkich użytkowników** i zapisuje je do pliku TXT.
+- `to_txt_only_active.exe` – odpowiednik skryptu `to_txt_only_active.py`, pobiera dane obecności dla **tylko aktywnych użytkowników** i zapisuje je do pliku TXT.
+
+Aby je uruchomić, wystarczy dwuklik na odpowiednim pliku lub uruchomienie go z poziomu Wiersza Poleceń.
+
+---
+
+## Pliki Python
+
 Ten projekt zawiera skrypty Pythona, które pobierają dane o obecności z API Comarch TNA i zapisują je albo do pliku tekstowego, albo do bazy danych Microsoft SQL Server. Dostępne są cztery skrypty:
 
 - **to_txt_all.py**  
