@@ -19,7 +19,7 @@ Ten projekt zawiera skrypty Pythona, które pobierają dane o obecności z API C
 ## Wymagania wstępne
 
 ### 1. Python 3.12  
-Pobierz i zainstaluj Pythona 3.12 z [Microsoft Store](https://www.microsoft.com/store/productId/9PJPW5LDXLZ5).
+Pobierz i zainstaluj Pythona 3.12 z [Microsoft Store](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=pl-pl&gl=PL).
 
 ### 2. Sterownik ODBC dla SQL Server (tylko dla skryptów SQL)  
 Jeśli planujesz uruchamiać **to_SQL_all.py** lub **to_SQL_only_active.py**, pobierz i zainstaluj sterownik ODBC dla SQL Server z [tej strony](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16#download-for-windows).
