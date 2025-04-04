@@ -11,7 +11,7 @@ Aby je uruchomić, wystarczy dwuklik na odpowiednim pliku lub uruchomienie go z 
 
 ---
 
-## Pliki Python
+# Pliki Python
 
 Ten projekt zawiera skrypty Pythona, które pobierają dane o obecności z API Comarch TNA i zapisują je albo do pliku tekstowego, albo do bazy danych Microsoft SQL Server. Dostępne są cztery skrypty:
 
