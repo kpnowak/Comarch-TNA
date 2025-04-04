@@ -53,8 +53,6 @@ Podczas uruchamiania każdego ze skryptów zostaniesz poproszony o podanie:
 - `FROM_DATE`: Data początkowa (format: RRRR-MM-DD).
 - `TILL_DATE`: Data końcowa (format: RRRR-MM-DD).
 
----
-
 ## Uruchamianie skryptów zapisujących do pliku TXT
 
 ### `to_txt_all.py`
@@ -72,8 +70,6 @@ Skrypt zapisuje dane o obecności dla **tylko aktywnych użytkowników** (gdzie 
 ```bash
 python to_txt_only_active.py
 ```
-
----
 
 ## Uruchamianie skryptów zapisujących do SQL
 
