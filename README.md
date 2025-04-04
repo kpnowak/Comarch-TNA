@@ -63,6 +63,7 @@ Skrypt zapisuje dane o obecności dla **wszystkich użytkowników** (niezależni
 
 ```bash
 python to_txt_all.py
+```
 
 ### `to_txt_only_active.py`
 
@@ -70,6 +71,7 @@ Skrypt zapisuje dane o obecności dla **tylko aktywnych użytkowników** (gdzie 
 
 ```bash
 python to_txt_only_active.py
+```
 
 ---
 
@@ -81,6 +83,7 @@ Skrypt zapisuje dane o obecności dla **wszystkich użytkowników** (niezależni
 
 ```bash
 python to_SQL_all.py.py
+```
 
 ### `to_SQL_only_active.py`
 
@@ -88,6 +91,7 @@ Skrypt zapisuje dane o obecności dla **tylko aktywnych użytkowników** (gdzie 
 
 ```bash
 python to_SQL_only_active.py
+```
 
 
 Podczas uruchamiania dowolnego ze skryptów SQL zostaniesz także poproszony o podanie swojego **connection stringa** do bazy danych SQL Server.
